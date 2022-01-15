@@ -34,7 +34,7 @@ This repo is a boilerplate for quickly creating new websites using Django framew
 
 - Files that needs to be pre-processed live under `assets` directory. (e.g., `assets/css/tailwind.css` and files under `assets/components`)
 
-- All Django templates live in `templates` directory
+- All Django templates live in `app/templates` directory
 
 ## Installing
 
